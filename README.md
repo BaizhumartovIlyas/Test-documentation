@@ -6,3 +6,4 @@
 - here is [the link](https://github.com/BaizhumartovIlyas/Test-documentation/commit/f5d93504d9cc10e2650bfb1298bd1f2f2286cb15) to attached file with test cases.
 - another one [link](https://github.com/BaizhumartovIlyas/Test-documentation/blob/main/G7-2024-04-29.pdf) in case if previous one hasn't been opened
 ### Bug report 
+- here is the [link](https://github.com/BaizhumartovIlyas/Test-documentation/blob/main/G7-Express%2Brun%2B2024_05_01.pdf) to check report from QASE 
